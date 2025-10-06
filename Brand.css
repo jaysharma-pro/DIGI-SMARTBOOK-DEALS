@@ -1,0 +1,63 @@
+ * {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+body {
+  background-color: #f9f9f9;
+  text-align: center;
+  color: #000;
+
+}
+
+/* Brands Section */
+.brands-section {
+  background-image: url();
+  font-size: 20px;
+  padding: 50px;
+  background: #fff;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 10px;
+}
+.brands {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  margin-top: 30px;
+}
+
+.brands img {
+  width: 200px;
+  height: 190px;
+}
+
+/* Learning Section */
+.learning-section {
+  padding: 50px;
+  background-color: #f7fbfd;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+/* button section */
+.button {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+button {
+  background-color: #00bcd4;
+  color: white;
+  border: none;
+  padding: 15px 40px;
+  border-radius: 10px;
+  background-color: #0097a7;
+}
+/* effect in button */
+button:hover {
+  background-color: #007c91;
+}
