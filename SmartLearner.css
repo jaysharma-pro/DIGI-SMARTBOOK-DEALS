@@ -1,9 +1,4 @@
 
-* {
-  margin: 0;
-  padding: 0;
-  font-family: Arial, sans-serif;
-}
 
 body {
   background-color: #eafaf8;
@@ -42,7 +37,7 @@ font-size: 25px;
   color: #00a19d;
 }
 
-.btn {
+.button {
   margin-top: 20px;
   background-color: #00aaff;
   color: white;
@@ -52,7 +47,7 @@ font-size: 25px;
   font-size: 16px;
 }
 
-.btn:hover {
+.button:hover {
   background-color: #008fcc;
 }
 
@@ -71,12 +66,12 @@ font-size: 25px;
 }
 
 .profile-img {
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   border-radius: 20px;
 }
 .date {
-  font-size: 14px;
+  font-size: 15px;
   color: grey;
   margin-bottom: 10px;
 }
